@@ -19,6 +19,8 @@ func getSum() int {
 }
 
 func getSum2() (sum int) {
-	fmt.Println("hanshu", sum)
-	return 1
+	for i := 1; i <= 100; i++ {
+		sum += i
+	}
+	return
 }
