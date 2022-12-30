@@ -4,7 +4,9 @@ go 1.19
 
 require (
 	github.com/BurntSushi/toml v1.2.0 // indirect
+	github.com/gofrs/uuid v4.3.1+incompatible // indirect
 	github.com/google/go-cmp v0.5.8 // indirect
+	github.com/jdcloud-api/jdcloud-sdk-go v1.58.0 // indirect
 	github.com/sergi/go-diff v1.1.0 // indirect
 	golang.org/x/exp v0.0.0-20220722155223-a9213eeb770e // indirect
 	golang.org/x/exp/typeparams v0.0.0-20220722155223-a9213eeb770e // indirect
